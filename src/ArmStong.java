@@ -14,7 +14,7 @@ i=i/10;
  else
 	 System.out.println("not armstrong");
  
- 
+System.out.println("this is prabhs")
  
  			
 	}
